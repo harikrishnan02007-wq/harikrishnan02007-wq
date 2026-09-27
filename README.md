@@ -1,34 +1,39 @@
-# HARI-KRISHNAN-M
-Personal GitHub profile and developer portfolio
 <div align="center">
 
 # 👋 Hi, I'm Hari Krishnan
 
 ### AI/ML Student • Full-Stack Developer • Hackathon Builder
 
+Building intelligent applications, experimenting with AI,
+and turning ideas into real-world projects.
+
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/harikrishnan02007-wq/harikrishnan02007-wq/main/github-metrics.svg" width="100%" />
+<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 ---
 
 ## 🚀 About Me
 
-I'm an Artificial Intelligence & Machine Learning student passionate
-about building AI-powered applications, full-stack systems and
-hackathon projects.
+I'm an Artificial Intelligence & Machine Learning student at
+St. Joseph's College of Engineering.
+
+I'm interested in building AI-powered applications,
+full-stack systems, and practical solutions through hackathons
+and personal projects.
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 💻 Full-Stack Development
 - 🧠 Data Structures & Algorithms
 - 🏆 Hackathons & Technical Projects
 - 🎹 Piano & Music
+- 🌱 Constantly learning and experimenting
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,git,github,vscode,supabase&perline=6" />
@@ -38,29 +43,48 @@ hackathon projects.
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤖 AI Dropout Prediction | AI-powered student risk prediction and counselling |
-| 🏥 MediTrack AI | AI-powered hospital management platform |
-| 🛠️ Fixora | Smart complaint resolution platform |
-| 🧠 Kiki AI | AI assistant with specialized personalities |
+### 🤖 AI Dropout Prediction & Counselling System
+
+AI-powered education platform designed to identify students at risk
+of dropping out and provide personalized counselling.
+
+**Tech:** React • Node.js • Socket.IO • Supabase • Machine Learning
 
 ---
 
-## 📫 Connect With Me
+### 🏥 MediTrack AI
 
-<p align="center">
+AI-powered hospital management concept focused on intelligent
+bed management, priority prediction and operational insights.
 
-<a href="https://github.com/harikrishnan02007-wq">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+**Tech:** Next.js • TypeScript • Supabase • AI/ML
 
 ---
 
-<div align="center">
+### 🛠️ Fixora
 
-### ⚡ Build • Learn • Experiment • Repeat
+Smart complaint-resolution platform connecting customers with
+verified electricians and plumbers.
 
-</div>
+**Tech:** React • TypeScript • AI • Supabase
+
+---
+
+### 🧠 Kiki AI
+
+AI assistant project exploring specialized AI personalities
+for different user needs.
+
+**Tech:** AI • Python • Web Development
+
+---
+
+## 📚 Currently Learning
+
+```text
+Machine Learning
+Data Structures & Algorithms
+Java
+React
+Full-Stack Development
+AI Engineering
