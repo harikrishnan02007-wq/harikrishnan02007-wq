@@ -4,36 +4,29 @@
 
 ### AI/ML Student • Full-Stack Developer • Hackathon Builder
 
-Building intelligent applications, experimenting with AI,
-and turning ideas into real-world projects.
-
 </div>
 
 ---
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<img src="https://raw.githubusercontent.com/harikrishnan02007-wq/harikrishnan02007-wq/main/github-metrics.svg" width="100%" />
 
 ---
 
 ## 🚀 About Me
 
-I'm an Artificial Intelligence & Machine Learning student at
-St. Joseph's College of Engineering.
-
-I'm interested in building AI-powered applications,
-full-stack systems, and practical solutions through hackathons
-and personal projects.
+I'm an Artificial Intelligence & Machine Learning student passionate
+about building AI-powered applications, full-stack systems and
+hackathon projects.
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 💻 Full-Stack Development
 - 🧠 Data Structures & Algorithms
 - 🏆 Hackathons & Technical Projects
 - 🎹 Piano & Music
-- 🌱 Constantly learning and experimenting
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,git,github,vscode,supabase&perline=6" />
@@ -43,48 +36,29 @@ and personal projects.
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Dropout Prediction & Counselling System
-
-AI-powered education platform designed to identify students at risk
-of dropping out and provide personalized counselling.
-
-**Tech:** React • Node.js • Socket.IO • Supabase • Machine Learning
-
----
-
-### 🏥 MediTrack AI
-
-AI-powered hospital management concept focused on intelligent
-bed management, priority prediction and operational insights.
-
-**Tech:** Next.js • TypeScript • Supabase • AI/ML
+| Project | Description |
+|---|---|
+| 🤖 AI Dropout Prediction | AI-powered student risk prediction and counselling |
+| 🏥 MediTrack AI | AI-powered hospital management platform |
+| 🛠️ Fixora | Smart complaint resolution platform |
+| 🧠 Kiki AI | AI assistant with specialized personalities |
 
 ---
 
-### 🛠️ Fixora
+## 📫 Connect With Me
 
-Smart complaint-resolution platform connecting customers with
-verified electricians and plumbers.
+<p align="center">
 
-**Tech:** React • TypeScript • AI • Supabase
+<a href="https://github.com/harikrishnan02007-wq">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
-
-### 🧠 Kiki AI
-
-AI assistant project exploring specialized AI personalities
-for different user needs.
-
-**Tech:** AI • Python • Web Development
+</p>
 
 ---
 
-## 📚 Currently Learning
+<div align="center">
 
-```text
-Machine Learning
-Data Structures & Algorithms
-Java
-React
-Full-Stack Development
-AI Engineering
+### ⚡ Build • Learn • Experiment • Repeat
+
+</div>
