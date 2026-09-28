@@ -1,90 +1,87 @@
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Hari Krishnan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:7C3AED,50:EC4899,75:F97316,100:00F5FF&height=220&section=header&text=HARI%20KRISHNAN&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling" width="100%"/>
 
-### AI/ML Student • Full-Stack Developer • Hackathon Builder
+<br>
 
-Building intelligent applications, experimenting with AI,
-and turning ideas into real-world projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=850&height=70&lines=AI%2FML+STUDENT;FULL-STACK+DEVELOPER;HACKATHON+BUILDER;PROBLEM+SOLVER;BUILDING+INTELLIGENT+SYSTEMS;TURNING+IDEAS+INTO+REALITY" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1000&color=EC4899&center=true&vCenter=true&width=750&height=40&lines=Think+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Learning+something+new+every+day;Building+one+project+at+a+time" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=harikrishnan02007-wq&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" />
 
 </div>
 
----
+<br>
 
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+<!-- ========================= -->
+<!--       INTRODUCTION        -->
+<!-- ========================= -->
 
----
+<div align="center">
 
-## 🚀 About Me
+## ⚡ AI • ML • FULL-STACK • BUILDING
 
-I'm an Artificial Intelligence & Machine Learning student at
-St. Joseph's College of Engineering.
+<img src="https://user-images.githubusercontent.com/74038190/216656972-0c8c8c3a-2d70-4d8e-8f4e-4f6f9e7b4c6e.gif" width="70">
 
-I'm interested in building AI-powered applications,
-full-stack systems, and practical solutions through hackathons
-and personal projects.
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 💻 Full-Stack Development
-- 🧠 Data Structures & Algorithms
-- 🏆 Hackathons & Technical Projects
-- 🎹 Piano & Music
-- 🌱 Constantly learning and experimenting
-
----
-
-## 🛠️ Tech Stack
+</div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,git,github,vscode,supabase&perline=6" />
+
+I'm an **Artificial Intelligence & Machine Learning student** at  
+**St. Joseph's College of Engineering**, passionate about building  
+AI-powered applications, full-stack systems and hackathon projects.
+
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Dropout Prediction & Counselling System
-
-AI-powered education platform designed to identify students at risk
-of dropping out and provide personalized counselling.
-
-**Tech:** React • Node.js • Socket.IO • Supabase • Machine Learning
+<br>
 
 ---
 
-### 🏥 MediTrack AI
+<!-- ========================= -->
+<!--         ABOUT ME          -->
+<!-- ========================= -->
 
-AI-powered hospital management concept focused on intelligent
-bed management, priority prediction and operational insights.
+## 🧠 About Me
 
-**Tech:** Next.js • TypeScript • Supabase • AI/ML
+<table>
+<tr>
 
----
+<td width="55%" valign="top">
 
-### 🛠️ Fixora
+### 👋 Who am I?
 
-Smart complaint-resolution platform connecting customers with
-verified electricians and plumbers.
+- 🤖 AI / Machine Learning student
+- 💻 Full-Stack Developer
+- 🧩 Problem Solver
+- 🏆 Hackathon Builder
+- 🚀 Project & Product Enthusiast
+- 🎹 Piano & Music Lover
+- 🌱 Always learning something new
 
-**Tech:** React • TypeScript • AI • Supabase
+</td>
 
----
+<td width="45%" valign="top">
 
-### 🧠 Kiki AI
-
-AI assistant project exploring specialized AI personalities
-for different user needs.
-
-**Tech:** AI • Python • Web Development
-
----
-
-## 📚 Currently Learning
+### 🎯 What I enjoy
 
 ```text
-Machine Learning
-Data Structures & Algorithms
-Java
-React
-Full-Stack Development
 AI Engineering
+     ↓
+Machine Learning
+     ↓
+Full-Stack Development
+     ↓
+Real-World Problems
+     ↓
+Hackathons
+     ↓
+Building Products
